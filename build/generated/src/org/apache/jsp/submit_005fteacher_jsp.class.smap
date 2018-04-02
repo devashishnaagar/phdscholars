@@ -1,0 +1,20 @@
+SMAP
+submit_005fteacher_jsp.java
+JSP
+*S JSP
+*F
++ 0 submit_teacher.jsp
+submit_teacher.jsp
+*L
+1,130:47
+132,18:179
+149,4:197
+153:201,3
+154,4:204
+157,3:208
+159,4:211
+163:215,3
+164,5:218
+168,7:223
+174,17:230
+*E
